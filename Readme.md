@@ -1,3 +1,5 @@
+Card matching game with friends' pictures on Facebook
+
 Facebook/Heroku sample app -- PHP
 =================================
 
